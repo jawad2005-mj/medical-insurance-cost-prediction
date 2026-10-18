@@ -10,7 +10,7 @@
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?logo=pandas&logoColor=white)
 ![R2 Score](https://img.shields.io/badge/R%C2%B2%20Score-0.8068-success)
 
-[🔗 **Live App**](PASTE_YOUR_STREAMLIT_LINK_HERE) &nbsp;|&nbsp; [📂 **Repository**](https://github.com/jawad2005-mj/medical-insurance-cost-prediction) &nbsp;|&nbsp; [📓 **Notebook**](notebooks/insurance_cost_prediction.ipynb)
+[🔗 **Live App**](https://medical-insurance-cost-predict-ions.streamlit.app/) &nbsp;|&nbsp; [📂 **Repository**](https://github.com/jawad2005-mj/medical-insurance-cost-prediction) &nbsp;|&nbsp; [📓 **Notebook**](notebooks/insurance_cost_prediction.ipynb)
 
 <img src="images/app_interface.png" alt="Medical Insurance Cost Predictor app" width="620">
 
